@@ -9,6 +9,7 @@ Teaching assistant for the course _Stochastic Signals and Systems_ for _4_ terms
 In all the terms, I handled the main responsibility of designing the tutorials for the class. This involved a 2 hour lecture and a 1 hour Q&A session per week. In addition to tutorials, I taught over 10 hours of substitute main lecture.
 
 Below is the summary of my teaching review:
+
 {:class="table table-bordered"}
 | Well prepared           |4.73         |
 | Helpful                 |4.48         |
