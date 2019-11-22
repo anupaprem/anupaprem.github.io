@@ -10,7 +10,7 @@ In all the terms, I handled the main responsibility of designing the tutorials f
 
 Below is the summary of my teaching review:
 |-------------------------+-------------|
-| Default aligned         | Score (/5)  | 
+|                         | Score (/5)  | 
 |:-----------------------:|:-----------:|
 | Well prepared           |4.73         |
 | Helpful                 |4.48         |
@@ -18,3 +18,4 @@ Below is the summary of my teaching review:
 | Easily understood       |4.16         |
 | An effective instructor |4.40         |
 |---------------------------------------|
+{: rules="groups"}
