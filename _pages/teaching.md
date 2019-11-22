@@ -14,9 +14,13 @@ Below is the summary of my teaching review:
         border: 1px solid black;
         }
 </style>
+|-------------------------+-------------|
+|                         | Score (/5)  | 
+|:-----------------------:|:-----------:|
 | Well prepared           |4.73         |
 | Helpful                 |4.48         |
 | Considerate of students |4.59         |
 | Easily understood       |4.16         |
 | An effective instructor |4.40         |
+|---------------------------------------|
 {: .tablelines}
