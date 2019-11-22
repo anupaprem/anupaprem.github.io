@@ -52,22 +52,22 @@ Conference Publications
 {:.paper}
 <span>A data centric approach to utility change detection in online social media</span>{:.papertitle}  
 <span>A. Aprem and V. Krishnamurthy</span>{:.authors}  
-<span>3929-3933, 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Mar. 2017</span>{:.journal}  
+<span>2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Mar. 2017</span>{:.journal}  
 
 {:.paper}
 <span>Multiple stopping time POMDPs: Structural results</span>{:.papertitle}  
 <span>V. Krishnamurthy, A. Aprem, and S. Bhatt</span>{:.authors}  
-<span>115-120, 2016 54th Annual Allerton Conference on Communication, Control, and Computing (Allerton), Sep. 2016</span>{:.journal}  
+<span>54th Annual Allerton Conference on Communication, Control, and Computing (Allerton), Sep. 2016</span>{:.journal}  
 
 {:.paper}
 <span>Transmit power control with ARQ in energy harvesting sensors: A decision-theoretic approach</span>{:.papertitle}  
 <span>A. Aprem, C.R. Murthy, and N.B. Mehta</span>{:.authors}  
-<span>3388-3393, 2012 IEEE Global Communications Conference (GLOBECOM), Dec. 2012</span>{:.journal}  
+<span>IEEE Global Communications Conference (GLOBECOM), Dec. 2012</span>{:.journal}  
 
 {:.paper}
 <span>Reusable and Scalable Verification Environment for Memory Controllers</span>{:.papertitle}  
 <span>K.K. Abburi, S.S. Evani, S. Thomas, and A. Aprem</span>{:.authors}  
-<span>209--216, Progress in VLSI Design and Test, Berlin, Heidelberg, Jul. 2012</span>{:.journal}  
+<span>Progress in VLSI Design and Test, Berlin, Heidelberg, Jul. 2012</span>{:.journal}  
 
 {:.paper}
 <span>Faster verification closure using VMM and Designware VIPs</span>{:.papertitle}  
