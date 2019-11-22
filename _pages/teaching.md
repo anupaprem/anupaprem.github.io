@@ -15,3 +15,4 @@ Below is the summary of my teaching review:
 | Considerate of students |4.59         |
 | Easily understood       |4.16         |
 | An effective instructor |4.40         |
+{:.table-striped} 
