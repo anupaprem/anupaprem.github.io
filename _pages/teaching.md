@@ -10,12 +10,8 @@ In all the terms, I handled the main responsibility of designing the tutorials f
 
 Below is the summary of my teaching review:
 {:class="table"}
-|-------------------------+-------------|
-|                         | Score (/5)  | 
-|:-----------------------:|:-----------:|
 | Well prepared           |4.73         |
 | Helpful                 |4.48         |
 | Considerate of students |4.59         |
 | Easily understood       |4.16         |
 | An effective instructor |4.40         |
-|---------------------------------------|
