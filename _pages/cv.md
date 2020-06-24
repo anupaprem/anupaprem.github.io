@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Will be updated soon
+<embed src="https://anupaprem.github.io/files/AnupAprem_1pageCV.pdf" width="500" height="375" 
+ type="application/pdf">
