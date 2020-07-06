@@ -13,7 +13,7 @@ Journal Articles
 {:.paper}
 <span>A Bayesian optimization approach to compute the Nash equilibria of potential games using bandit feedback</span>{:.papertitle}  
 <span>A. Aprem, and S. Roberts</span>{:.authors}  
-<span>_Computer Journal_, In Press</span>{:.journal}  
+<span>_Computational Intelligence, Machine Learning and Data Analytics, Computer Journal_, vol. 12, Dec. 2019</span>{:.journal}  
 
 
 {:.paper}
