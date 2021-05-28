@@ -18,5 +18,5 @@ My research interests are broadly in statistical signal processing, stochastic d
 ### Open Research Positions
 Looking for a highly motivated Ph.D. student with strong background in linear algebra, probability theory and signal processing. If you are interested in working with me, please send me an email along with your CV. 
 
-### Summer Internship Positions
-Summer internships positions available for students with strong background in Machine Learning or Data Science.  
+### Undergraduate Project
+One undergradudate project on deep convolutional neural network with application to image fusion.   
