@@ -8,4 +8,5 @@ author_profile: true
 [Lecture 2](/files/ecntb21/ECNTB%20Lecture%202.pdf)<br/>
 [Lecture 3](/files/ecntb21/ECNTB%20Lecture%203.pdf)<br/>
 [Lecture 4](/files/ecntb21/ECNTB%20Lecture%204.pdf)<br/>
-[Lecture 5](/files/ecntb21/ECNTB%20Lecture%205.pdf)
+[Lecture 5](/files/ecntb21/ECNTB%20Lecture%205.pdf)<br/>
+[Lecture 6](/files/ecntb21/ECNTB%20Lecture%206.pdf)<br/>
