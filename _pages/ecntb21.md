@@ -20,3 +20,6 @@ author_profile: true
 [Lecture 14](/files/ecntb21/ECNTB%20Lecture%2014.pdf)<br/>
 [Lecture 15](/files/ecntb21/ECNTB%20Lecture%2015.pdf)<br/>
 [Lecture 16](/files/ecntb21/ECNTB%20Lecture%2016.pdf)<br/>
+[Lecture 17](/files/ecntb21/ECNTB%20Lecture%2017.pdf)<br/>
+[Lecture 18](/files/ecntb21/ECNTB%20Lecture%2018.pdf)<br/>
+[Lecture 19](/files/ecntb21/ECNTB%20Lecture%2019.pdf)<br/>
