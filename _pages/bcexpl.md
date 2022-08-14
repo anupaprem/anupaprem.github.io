@@ -12,7 +12,7 @@ Exploring partnerships for the co-creation of international joint programmes in 
 
 Anup Aprem (National Institute of Technology Calicut)|  Arantza Aldea (Oxford Brookes University)
 :---------------------------------------------------:|:-------------------------:
-<img src="../images/aa.png" width="425"/>|<img src="../images/arantzaaldea.jpg" width="425"/>
+<img src="../images/aa.png" width="200"/>|<img src="../images/arantzaaldea.jpg" width="200"/>
 
 # Outcome
 
@@ -65,3 +65,16 @@ Week 11	|Advanced Data visualization: Interactivity	|Buffer
 Week 12	|Course Project Week (No Lectures)	|Course Project Week (No Lectures)
 Week 13	|Course Project Presentation (1/2)	|Course Project Presentation (2/2)
 
+## Lab schedule
+
+Week 1	| Introduction to Python: Familiarization Exercises
+Week 2	| Database design: Normal Forms
+Week 3	| Buffer 
+Week 4	| SQL: Table creation, SQL queries, SQL and Python
+Week 5	| XML, Python and XML
+Week 6	| Buffer 
+Week 7	| Data Pre-processing in SQL
+Week 8	| Plotting with Matplotlib (1/2)
+Week 9	| Plotting with Matplotlib (2/2)
+Week 10	| Data Transformation in Python
+Week 11	| Exploratory data analytics 
