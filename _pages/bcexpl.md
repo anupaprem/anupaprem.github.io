@@ -31,19 +31,12 @@ Short course certificate from Oxford Brookes University.
 
 ## Outline
 1. Core Data Science Concepts
-
 2. Different types of data sources (admin data. Survey data, open data, big data)
-
 3. Data Gathering methods, e.g web scraping
-
 4. Challenging with unstructured Data
-
 5. Data Processing
-
 6. Data Analysis (structured and unstructured Data)
-
 7. Exploratory data analysis
-
 8. Methodologies for data visualisation
 
 ## Syllabus
