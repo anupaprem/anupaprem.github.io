@@ -50,20 +50,21 @@ Short course certificate from Oxford Brookes University.
 
 ## Weekly Lecture Plan
 
-	| Lecture 1	| Lecture 2
-Week 1	| Introduction to Data Science	| Introduction to Python and Libraries
-Week 2	|Database Theory for Data Science |(1/2)	Database Theory for Data Science (2/2)
-Week 3	|SQL for structured database	|XML for semi-structured data (1/2)
-Week 4	|XML for semi-structured data (2/2)	|Data Pre-processing (1/3)
-Week 5	|Data Pre-processing (2/3)	|Data Pre-processing (3/3)
-Week 6	|Introduction to Big Data (1/2)	|Introduction to Big Data (1/2)
-Week 7	|Introduction to Data Visualization	|Plots and Grammar of Plots
-Week 8	|Plotting with Matplotlib, Pandas, Seaborn	|Practical aspects of data visualization
-Week 9	|Data Transformation	|Data Transformation with Python: numpy, pandas
-Week 10	|Exploratory data analytics (1/2)	|Exploratory data analytics (2/2)
-Week 11	|Advanced Data visualization: Interactivity	|Buffer
-Week 12	|Course Project Week (No Lectures)	|Course Project Week (No Lectures)
-Week 13	|Course Project Presentation (1/2)	|Course Project Presentation (2/2)
+	| Lecture 1	| Lecture 2|
+	| --------------| ---------|
+|Week 1	| Introduction to Data Science	| Introduction to Python and Libraries|
+|Week 2	|Database Theory for Data Science |(1/2)	Database Theory for Data Science (2/2)|
+|Week 3	|SQL for structured database	|XML for semi-structured data (1/2)|
+|Week 4	|XML for semi-structured data (2/2)	|Data Pre-processing (1/3)|
+|Week 5	|Data Pre-processing (2/3)	|Data Pre-processing (3/3)|
+|Week 6	|Introduction to Big Data (1/2)	|Introduction to Big Data (1/2)|
+|Week 7	|Introduction to Data Visualization	|Plots and Grammar of Plots|
+|Week 8	|Plotting with Matplotlib, Pandas, Seaborn	|Practical aspects of data visualization|
+|Week 9	|Data Transformation	|Data Transformation with Python: numpy, pandas|
+|Week 10	|Exploratory data analytics (1/2)	|Exploratory data analytics (2/2)|
+|Week 11	|Advanced Data visualization: Interactivity	|Buffer|
+|Week 12	|Course Project Week (No Lectures)	|Course Project Week (No Lectures)|
+Week 13	|Course Project Presentation (1/2)	|Course Project Presentation (2/2)|
 
 ## Lab schedule
 
