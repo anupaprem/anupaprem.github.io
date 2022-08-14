@@ -30,28 +30,28 @@ Monsoon 2022 (Starting Aug 21, 2022): EC6435D
 Short course certificate from Oxford Brookes University. 
 
 ## Outline
-1.Core Data Science Concepts
+1. Core Data Science Concepts
 
-2.Different types of data sources (admin data. Survey data, open data, big data)
+2. Different types of data sources (admin data. Survey data, open data, big data)
 
-3.Data Gathering methods, e.g web scraping
+3. Data Gathering methods, e.g web scraping
 
-4.Challenging with unstructured Data
+4. Challenging with unstructured Data
 
-5.Data Processing
+5. Data Processing
 
-6.Data Analysis (structured and unstructured Data)
+6. Data Analysis (structured and unstructured Data)
 
-7.Exploratory data analysis
+7. Exploratory data analysis
 
-8.Methodologies for data visualisation
+8. Methodologies for data visualisation
 
 ## Syllabus
 
 ## Weekly Lecture Plan
 
-	| Lecture 1	| Lecture 2|
-	| --------------| ---------|
+|	| Lecture 1	| Lecture 2|
+|-------| --------------| ---------|
 |Week 1	| Introduction to Data Science	| Introduction to Python and Libraries|
 |Week 2	|Database Theory for Data Science |(1/2)	Database Theory for Data Science (2/2)|
 |Week 3	|SQL for structured database	|XML for semi-structured data (1/2)|
@@ -79,3 +79,15 @@ Week 8	| Plotting with Matplotlib (1/2)
 Week 9	| Plotting with Matplotlib (2/2)
 Week 10	| Data Transformation in Python
 Week 11	| Exploratory data analytics 
+
+# Course Project (Individual)
+In the course project you will identify a suitable data problem, obtain the dataset, create a database and perform data visualization on the problem. You will produce a final report, an
+article, a poster or a flyer where you display the data visually to a specific audience. The evaluation would focus on the design process to achieve the final visualization. 
+Evaluation sub-tasks:
+1. Transforming the data obtained into an appropriate normal formal and converting into a SQL database, and defining appropriate keys, data types and relationships. 
+2. Data pre-processing using python and SQL queries from Python
+3. Data Transformation and Exploratory data analysis in Python
+4. Conclusion and Inference about the selected data set. 
+
+# Lecture and Lab Material
+Available on request 
