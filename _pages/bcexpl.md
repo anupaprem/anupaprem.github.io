@@ -47,6 +47,7 @@ Short course certificate from Oxford Brookes University.
 8. Methodologies for data visualisation
 
 ## Syllabus
+[EC6435D](/files/EC6435D.pdf)
 
 ## Weekly Lecture Plan
 
@@ -90,4 +91,4 @@ Evaluation sub-tasks:
 4. Conclusion and Inference about the selected data set. 
 
 # Lecture and Lab Material
-Available on request 
+Copyrighted: Available for reference on request 
