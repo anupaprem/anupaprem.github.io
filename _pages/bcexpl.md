@@ -2,7 +2,7 @@
 layout: archive
 title: "British Council Going Global Exploratory Grant"
 permalink: /bcexpl/
-author_profile: true
+author_profile: false
 ---
 [Lecture 1](/files/ecntb21/ECNTB%20Lecture%201.pdf)<br/>
 [Lecture 2](/files/ecntb21/ECNTB%20Lecture%202.pdf)<br/>
