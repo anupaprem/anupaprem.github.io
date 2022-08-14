@@ -12,7 +12,7 @@ Exploring partnerships for the co-creation of international joint programmes in 
 
 Anup Aprem (National Institute of Technology Calicut)|  Arantza Aldea (Oxford Brookes University)
 :---------------------------------------------------:|:-------------------------:
-<img src="aa.png" width="425"/>|<img src="arantzaaldea.jpg" width="425"/>
+<img src="images/aa.png" width="425"/>|<img src="images/arantzaaldea.jpg" width="425"/>
 
 # Outcome
 
@@ -29,13 +29,21 @@ Monsoon 2022 (Starting Aug 21, 2022): EC6435D
 ## Bonus
 Short course certificate from Oxford Brookes University. 
 
-## Course Outline
+## Outline
 1.Core Data Science Concepts
+
 2.Different types of data sources (admin data. Survey data, open data, big data)
+
 3.Data Gathering methods, e.g web scraping
+
 4.Challenging with unstructured Data
+
 5.Data Processing
+
 6.Data Analysis (structured and unstructured Data)
+
 7.Exploratory data analysis
+
 8.Methodologies for data visualisation
 
+## Syllabus
