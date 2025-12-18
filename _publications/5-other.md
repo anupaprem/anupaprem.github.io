@@ -7,4 +7,4 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
-1. Aprem, Anup, "**Detection, estimation and control in online social media**," PhD thesis, *University of British Columbia* 2017. &nbsp;<a href='/publications/bibtex#aprem2017detection' target='_blank' </a>
+1. Aprem, Anup, "**Detection, estimation and control in online social media**," PhD thesis, *University of British Columbia* 2017.

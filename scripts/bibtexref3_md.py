@@ -21,7 +21,7 @@ BibtexPdfIcon = "<i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrob
 BibtexTripIcon = "<i class='fab fa-blogger' style='color: {{ page.blogger-color }}'></i>"
 BibtexSlideshareButton = "class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/>"
 BibtexArxivButton = "class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/>"
-BibtexBibtexButton = ""
+BibtexBibtexButton = "class='btn btn--mcwbibtex'><img src='../images/BibTeX_logo-16px-high.png'/>"
 
 BibtexGenerateDefaultUrlField = False
 BibtexCompleteEntriesUrl = ""
@@ -409,8 +409,8 @@ class BibtexEntry:
             if tripreport:
                 ret += f" <a href='{tripreport}' target='_blank'>{BibtexTripIcon}</a>"
 
-            if dobibtex:
-                ret += f" &nbsp;<a href='{self.get_complete_entry_url()}' target='_blank' {BibtexBibtexButton}</a>"
+            #if dobibtex:
+                #ret += f" &nbsp;<a href='{self.get_complete_entry_url()}' target='_blank' {BibtexBibtexButton}</a>"
 
         return ret
 
