@@ -20,14 +20,14 @@ def generate_file(output_dir, outfile, title, type_value, permalink, paper_strin
         fp.write(paper_string)
 
 def generate_files(bibTexFile, outputDir):
-    years = list(range(1997, 2026))
+    years = list(range(2012, 2025))
     # Skipping the year 1998 and 2002 -- no papers published
-    years.remove(1998)  
-    years.remove(2002)
+    years.remove(2014)  
+    years.remove(2015)
+    years.remove(2020)
+    years.remove(2022)
 
     for year in years:
-        if year == 1998 or year == 2002:
-            continue
         outfile = f"{year}.md"
         paper_string = bib_query(bibTexFile, f"(self.get('YEAR') == \"{year}\")", "!self.get('PUBDATE')", "100")
         generate_file(outputDir, outfile, str(year), "year", f"/publications/{year}", paper_string)
@@ -65,7 +65,7 @@ def generate_files(bibTexFile, outputDir):
 
     # generate single file with recent publications (since $year)
     outfile = "recent.md"
-    year = 2023
+    year = 2024
     paper_string = bib_query(bibTexFile, f"(self.get('YEAR') >= \"{year}\")", "!self.get('PUBDATE')", "10")
     generate_file(outputDir, outfile, "Recent Publications", "recent", "/publications/recent", paper_string)
 

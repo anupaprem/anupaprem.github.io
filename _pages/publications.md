@@ -13,7 +13,7 @@ author_profile: true
 
 {% include base_path %}
 
-[Sorted by Type](/publications/pubsbytype), [Award Publications](/publications/pubs-awards), [External Publication Lists](/publications/lists)
+[Sorted by Type](/publications/pubsbytype)
 
 {% for post in site.publications reversed %}
   {% if post.type == "year" %}

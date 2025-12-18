@@ -415,7 +415,7 @@ class BibtexEntry:
         return ret
 
     def cite(self):
-        ret = f"[{self.entryname}]({self.get_complete_entry_url()})"
+        #ret = f"[{self.entryname}]({self.get_complete_entry_url()})"
         return ret
 
     def get_bib_entry(self):
