@@ -12,15 +12,13 @@ I am an Assistant Professor at the ECE Department in NIT Calicut. Prior to this,
 
 Research Interests
 ==================
-Theory and Algorithms
----------------------
+##Theory and Algorithms
 - Preference Learning & Revealed Preference
 - Bayesian Learning - Learning with uncertainty
 - Markov Decision Process - Structured Planning Algorithms
 - Reinforcement Learning 
 - Deep Learning  
-Applications
-------------
+##Applications
 - Cognitive Radar and Electronic warfare
 - Intelligent Transportation Systems
 - Generative AI in 6G
