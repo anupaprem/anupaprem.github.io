@@ -1,5 +1,5 @@
 ---
-title: "Other (Poster Presentations, Dissertation, Misc)"
+title: "Dissertation"
 type: 'type'
 permalink: /publications/other
 collection: 'publications'

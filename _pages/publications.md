@@ -13,7 +13,7 @@ author_profile: true
 
 {% include base_path %}
 
-[Sorted by Type](/publications/pubsbytype)
+[Sorted by Type](/publications)
 
 {% for post in site.publications reversed %}
   {% if post.type == "year" %}

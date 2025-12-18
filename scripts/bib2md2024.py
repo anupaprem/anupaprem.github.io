@@ -32,7 +32,7 @@ def generate_files(bibTexFile, outputDir):
         paper_string = bib_query(bibTexFile, f"(self.get('YEAR') == \"{year}\")", "!self.get('PUBDATE')", "100")
         generate_file(outputDir, outfile, str(year), "year", f"/publications/{year}", paper_string)
 
-    types = ["book", "journal", "conference", "techreport", "other"]
+    types = ["journal", "conference", "other"]
     for index, type_value in enumerate(types, start=1):
         outfile = f"{index}-{type_value}.md"
         if type_value == "book":
@@ -48,7 +48,7 @@ def generate_files(bibTexFile, outputDir):
             title = "Tech Reports"
             paper_string = bib_query(bibTexFile, "'TECHREPORT' in self.entrytype", "!self.get('PUBDATE')", "100")
         elif type_value == "other":
-            title = "Other (Poster Presentations, Dissertation, Misc)"
+            title = "Dissertation"
             paper_string = bib_query(bibTexFile, "'MISC' in self.entrytype or 'PHDTHESIS' in self.entrytype", "!self.get('PUBDATE')", "100")            
 
         generate_file(outputDir, outfile, title, "type", f"/publications/{type_value}", paper_string)

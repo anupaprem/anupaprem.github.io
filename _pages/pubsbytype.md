@@ -15,8 +15,6 @@ redirect_from:
 
 [Sorted by Year](/publications/pubsbyyear)
 
-[**Journal Publications**](/publications/journal) | [**Conferences and Workshops**](/publications/conference) | [**Tech Reports**](/publications/techreport) | [**Other**](/publications/other)
-
 {% for post in site.publications %}
   {% if post.type == "type" %}
     {% include archive-single.html %}
