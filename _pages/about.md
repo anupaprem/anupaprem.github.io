@@ -13,10 +13,4 @@ I am an Assistant Professor at the ECE Department in NIT Calicut. Prior to this,
 My research interests are broadly in statistical signal processing, stochastic decision making and Bayesian machine learning, with applications to sensor networks (during my Masters), social media and networks (during my Ph.D) and multi-agent systems (during my postdoc). 
 
 
-
-
-### Open Research Positions
-Looking for a highly motivated Ph.D. student with strong background in linear algebra, probability theory and signal processing. If you are interested in working with me, please send me an email along with your CV. 
-
-### Undergraduate Project
-One undergraduate project on deep convolutional neural network with application to image fusion.   
+   
