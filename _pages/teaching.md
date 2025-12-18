@@ -4,7 +4,8 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-Fall 2020: Electric Circuits and Network Theory<br/> 
-Winter 2020: Artificial Intelligence<br/>
-Fall 2021: Electric Circuits and Network Theory - Part B<br/> 
-Fall 2021: Random Process
+Probability Theory and Applications (Monsoon 2025, Monsoon 2024, Monsoon 2023)<br/>
+Artificial Intelligence (Monsoon 2025, Winter 2024, Winter 2023, Winter 2020)<br/>
+Reinforcement Learning (Winter 2023) <br/>
+Introduction to Data Science (Monsoon 2023, Monsoon 2024) <br/>
+Electric Circuits and Network Theory (Monsoon 2020, Monsoon 2021)<br/> 
