@@ -20,7 +20,7 @@ def generate_file(output_dir, outfile, title, type_value, permalink, paper_strin
         fp.write(paper_string)
 
 def generate_files(bibTexFile, outputDir):
-    years = list(range(2012, 2025))
+    years = list(range(2012, 2026))
     # Skipping the year 1998 and 2002 -- no papers published
     years.remove(2014)  
     years.remove(2015)
