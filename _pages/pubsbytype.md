@@ -13,7 +13,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Sorted by Year](/publications/pubsbyyear)
+[Sorted by Year](/publications)
 
 {% for post in site.publications %}
   {% if post.type == "type" %}
